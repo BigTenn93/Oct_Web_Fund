@@ -1,0 +1,29 @@
+#search {
+    background-color: white;
+    border-color: aqua;
+    border-style: solid;
+    border-radius: 20px;
+    color: aqua;
+    height: 40px;
+    width: 200px;
+}
+
+#plus {
+    background-color: cadetblue;
+    border-color: cadetblue;
+    border-style: solid;
+    border-radius: 50%;
+    color: white;
+    height: 50px;
+    width: 50px;
+}
+
+#create {
+    background-color: cornflowerblue;
+    border-color: black;
+    border-style: solid;
+    box-shadow: 5px 5px 5px black;
+    color: white;
+    height: 40px;
+    width: 200px;
+}
